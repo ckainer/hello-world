@@ -1,3 +1,3 @@
 # hello-world
 short description
-my name is christian 
+my name is Christian
